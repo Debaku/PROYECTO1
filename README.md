@@ -1,4 +1,8 @@
 # PROYECTO1
 
 
-PPunto de venta
+Punto de venta
+
+
+
+Jorge el que lo LEA
